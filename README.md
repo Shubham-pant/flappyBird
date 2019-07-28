@@ -8,3 +8,5 @@ Used technologies:
 Feature used:
 Canvas
 Event Listeners
+
+![In-game image](https://raw.githubusercontent.com/Shubham-pant/flappyBird/master/game_snapshot.PNG)
